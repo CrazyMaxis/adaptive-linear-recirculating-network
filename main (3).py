@@ -1,14 +1,3 @@
-# Лабораторная работа 1 по дисциплине МРЗвИС
-# Выполнена студентом группы 121703 БГУИР Шурмель К.А.
-# Реализация линейной рециркуляционной сети с постоянным коэффициентом обучения с нормированными весами
-# как модели самокодировщика для задачи понижения размерности данных
-# Вариант 7
-
-# Ссылки на источники:
-# https://numpy.org/doc/2.1/reference/index.html
-# https://matplotlib.org/stable/api/index
-# https://habr.com/ru/articles/130581/
-
 import numpy as np
 from matplotlib import pyplot as plt
 import tensorflow as tf
